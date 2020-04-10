@@ -3,5 +3,5 @@
 
 ## Getting started
 
-* Launch jupyter notebook here : `jupyter notebook`
-* Open jupyter file
+* Launch jupyter notebook in the main folder : `jupyter notebook`
+* Open the jupyter files
